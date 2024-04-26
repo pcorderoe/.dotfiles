@@ -1,0 +1,8 @@
+[user]
+email = "patricio@espejozen.cl"
+name = "Patricio Cordero"
+
+[core]
+editor = "nvim"
+excludesfile="~/.gitignore_global"
+
